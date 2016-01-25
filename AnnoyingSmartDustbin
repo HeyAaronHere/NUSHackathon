@@ -1,13 +1,12 @@
-# NUSHackathon
+/* # NUSHackathon
 
 Done by Team W.A.L.K 
 
 Members: Aaron, Ching Yee, Joel, Kenny
  
-School: Temasek Polytechnic
+School: Temasek Polytechnic */
 
-
-CODE SUBMISSION
+//Code Submission
 
 #include <Wire.h>
 
